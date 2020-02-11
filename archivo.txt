@@ -3,3 +3,4 @@ Este es el archivo que modificaremos
 Cada integrante agregará sus nombres mediante pull request
 
 Daniela Gaytán Zamora
+García Felipe Miguel

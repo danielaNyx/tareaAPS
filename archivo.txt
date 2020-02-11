@@ -5,3 +5,5 @@ Cada integrante agregará sus nombres mediante pull request
 Daniela Gaytán Zamora
 
 Michael Rodríguez López
+
+García Felipe Miguel
